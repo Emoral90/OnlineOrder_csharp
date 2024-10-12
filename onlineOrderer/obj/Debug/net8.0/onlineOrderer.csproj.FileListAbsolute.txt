@@ -1,0 +1,15 @@
+C:\Users\moral\OneDrive\Desktop\School\cse210\w04\OnlineOrder_csharp\onlineOrderer\bin\Debug\net8.0\onlineOrderer.exe
+C:\Users\moral\OneDrive\Desktop\School\cse210\w04\OnlineOrder_csharp\onlineOrderer\bin\Debug\net8.0\onlineOrderer.deps.json
+C:\Users\moral\OneDrive\Desktop\School\cse210\w04\OnlineOrder_csharp\onlineOrderer\bin\Debug\net8.0\onlineOrderer.runtimeconfig.json
+C:\Users\moral\OneDrive\Desktop\School\cse210\w04\OnlineOrder_csharp\onlineOrderer\bin\Debug\net8.0\onlineOrderer.dll
+C:\Users\moral\OneDrive\Desktop\School\cse210\w04\OnlineOrder_csharp\onlineOrderer\bin\Debug\net8.0\onlineOrderer.pdb
+C:\Users\moral\OneDrive\Desktop\School\cse210\w04\OnlineOrder_csharp\onlineOrderer\obj\Debug\net8.0\onlineOrderer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moral\OneDrive\Desktop\School\cse210\w04\OnlineOrder_csharp\onlineOrderer\obj\Debug\net8.0\onlineOrderer.AssemblyInfoInputs.cache
+C:\Users\moral\OneDrive\Desktop\School\cse210\w04\OnlineOrder_csharp\onlineOrderer\obj\Debug\net8.0\onlineOrderer.AssemblyInfo.cs
+C:\Users\moral\OneDrive\Desktop\School\cse210\w04\OnlineOrder_csharp\onlineOrderer\obj\Debug\net8.0\onlineOrderer.csproj.CoreCompileInputs.cache
+C:\Users\moral\OneDrive\Desktop\School\cse210\w04\OnlineOrder_csharp\onlineOrderer\obj\Debug\net8.0\onlineOrderer.sourcelink.json
+C:\Users\moral\OneDrive\Desktop\School\cse210\w04\OnlineOrder_csharp\onlineOrderer\obj\Debug\net8.0\onlineOrderer.dll
+C:\Users\moral\OneDrive\Desktop\School\cse210\w04\OnlineOrder_csharp\onlineOrderer\obj\Debug\net8.0\refint\onlineOrderer.dll
+C:\Users\moral\OneDrive\Desktop\School\cse210\w04\OnlineOrder_csharp\onlineOrderer\obj\Debug\net8.0\onlineOrderer.pdb
+C:\Users\moral\OneDrive\Desktop\School\cse210\w04\OnlineOrder_csharp\onlineOrderer\obj\Debug\net8.0\onlineOrderer.genruntimeconfig.cache
+C:\Users\moral\OneDrive\Desktop\School\cse210\w04\OnlineOrder_csharp\onlineOrderer\obj\Debug\net8.0\ref\onlineOrderer.dll
